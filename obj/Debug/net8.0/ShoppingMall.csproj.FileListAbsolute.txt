@@ -1,0 +1,14 @@
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\obj\Debug\net8.0\ShoppingMall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\obj\Debug\net8.0\ShoppingMall.AssemblyInfoInputs.cache
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\obj\Debug\net8.0\ShoppingMall.AssemblyInfo.cs
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\obj\Debug\net8.0\ShoppingMall.csproj.CoreCompileInputs.cache
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\bin\Debug\net8.0\ShoppingMall.exe
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\bin\Debug\net8.0\ShoppingMall.deps.json
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\bin\Debug\net8.0\ShoppingMall.runtimeconfig.json
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\bin\Debug\net8.0\ShoppingMall.dll
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\bin\Debug\net8.0\ShoppingMall.pdb
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\obj\Debug\net8.0\ShoppingMall.dll
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\obj\Debug\net8.0\refint\ShoppingMall.dll
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\obj\Debug\net8.0\ShoppingMall.pdb
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\obj\Debug\net8.0\ShoppingMall.genruntimeconfig.cache
+C:\Users\shagun.p_int1590\source\repos\FactoryDesignPattern\ShoppingMall\obj\Debug\net8.0\ref\ShoppingMall.dll
